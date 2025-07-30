@@ -1,0 +1,14 @@
+﻿{
+  "SwaggerEndPoints": [
+    {
+      "Key": "Catalog API",
+      "Config": [
+        {
+          "Name": "Catalog API",
+          "Version": "v1",
+          "Url": "http://localhost:5000/swagger/v1/swagger.json"
+        }
+      ]
+    }
+  ]
+}
